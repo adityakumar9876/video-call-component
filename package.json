@@ -1,0 +1,14 @@
+{
+  "name": "medical-video-call",
+  "version": "1.0.0",
+  "description": "Medical consultation video call application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
